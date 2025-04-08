@@ -1,4 +1,4 @@
-rednoah/filebot:projector
+#rednoah/filebot:projector
 ghcr.io/astral-sh/uv:0.6.11
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
